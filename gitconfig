@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = allankisuule@gmail.com
+	name = allan kisuule
